@@ -11,7 +11,6 @@ El sistema de audiometría es una aplicación web diseñada para realizar y regi
 
 ### 1. Archivos Principales
 - `index.php`: Archivo principal que contiene la interfaz de usuario y la lógica del sistema
-- `Documentacion/`: Carpeta con archivos de referencia y documentación
 
 ### 2. Componentes Principales
 
