@@ -11,8 +11,7 @@ El sistema de audiometría es una aplicación web diseñada para realizar y regi
 
 ### 1. Archivos Principales
 - `index.php`: Archivo principal que contiene la interfaz de usuario y la lógica del sistema
-- `Documentacion/`: Carpeta con archivos de referencia y documentació![Informe_Audiometria](https://github.com/user-attachments/assets/77e6adc1-74f7-43d3-8f56-a77195925d87)
-n
+- `Documentacion/`: Carpeta con archivos de referencia y documentación
 
 ### 2. Componentes Principales
 
@@ -91,3 +90,4 @@ Para mantener el sistema:
 - Verificar la calibración del sistema de audio
 - Mantener actualizado el navegador web
 - Guardar regularmente los resultados de las pruebas
+![Informe_Audiometria](https://github.com/user-attachments/assets/da4f7fd0-398d-462f-acd6-7e95c389e86a)
